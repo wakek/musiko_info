@@ -63,15 +63,15 @@
         <li>Genres you like**</li>
     </ul>
 
-    <hr/>
-    <p id="data-footnote">**This data is only stored if you provide it or authorize Musiko to access your Spotify account.</p>
-    <hr/>
-
     <h2>Contact Information</h2>
 
     <p>For any other inquiries or assistance, feel free to reach out to us at <a href="mailto:musiko.help@gmail.com" target="_blank" rel="noopener noreferrer">musiko.help@gmail.com</a>.</p>
 
     <p>Thank you for choosing Musiko!</p>
+
+    <hr/>
+        <p id="data-footnote">**This data is only stored if you provide it or authorize Musiko to access your Spotify account.</p>
+    <hr/>
 </body>
 
 </html>
