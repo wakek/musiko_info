@@ -12,11 +12,12 @@
         }
 
         h1 {
-            color: #007BFF;
+            color: #000;
         }
 
         h2 {
-            color: #17A2B8;
+            color: #000;
+            opacity: 80%
         }
 
         a {
