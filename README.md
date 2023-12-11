@@ -28,12 +28,16 @@
         p {
             margin-bottom: 1.5em;
         }
+
+        #data-footnote {
+            color: #808080
+        }
     </style>
-    <title>Musiko Mobile App</title>
+    <title>Musiko Data Safety</title>
 </head>
 
 <body>
-    <h1>Musiko Mobile App</h1>
+    <h1>Musiko Data Safety</h1>
 
     <h2>Requesting Data Deletion or Account Closure</h2>
 
@@ -46,18 +50,23 @@
         <li>Include a brief message explaining your request.</li>
     </ol>
 
-    <p>Our support team will process your request promptly and inform you once the action is complete. Please be aware that account closure and data deletion are irreversible processes.</p>
+    <p>Our support team will process your request promptly and inform you once the action is complete. Please be aware that account closure and data deletion are immediate upon confirmation and irreversible processes.</p>
 
-    <h2>Requesting a Musiko Account</h2>
+    <h2>The Data We Store</h2>
 
-    <p>If you do not have a Musiko account and would like to request one, please send an email to <a href="mailto:musiko.help@gmail.com" target="_blank" rel="noopener noreferrer">musiko.help@gmail.com</a> with the subject line "Account Request." In the email, include:</p>
+    <p>All the data Musiko stores, which will be removed, include:</p>
 
     <ul>
-        <li>Full Name</li>
-        <li>A brief message explaining your request</li>
+        <li>email</li>
+        <li>username</li>
+        <li>Spotify account ID & token**</li>
+        <li>Artists you track**</li>
+        <li>Genres you like**</li>
     </ul>
 
-    <p>Our team will respond to assist you with the account creation process.</p>
+    <hr/>
+    <p id="data-footnote">**This data is only stored if you provide it or authorize Musiko to access your Spotify account.</p>
+    <hr/>
 
     <h2>Contact Information</h2>
 
